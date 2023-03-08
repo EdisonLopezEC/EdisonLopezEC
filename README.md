@@ -11,6 +11,7 @@
 🔍 Siempre estoy en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente y mejorar mis habilidades como desarrollador.
 
 📧 ¿Quieres ponerte en contacto conmigo? Puedes escribirme a mi correo electrónico edisonlopezec@gmail.com. ¡Estaré encantado de conversar contigo!
+ <br>
 🎧 Ahora estoy escuchando: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jypfxmi2diskhvl6uxv4rajota&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br><br><br>
