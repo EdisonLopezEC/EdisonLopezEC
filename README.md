@@ -6,6 +6,6 @@
   🎧 listening to: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jypfxmi2diskhvl6uxv4rajota&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br><br><br><br><br>
-<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@notbaileybrooks](https://www.twitter.com/notbaileybrooks) 💭
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">My web Page: [@notbaileybrooks](https://edisonlg-ec.vercel.app/) 💭
 
 
