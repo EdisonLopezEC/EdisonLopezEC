@@ -7,6 +7,6 @@
   🎧 Listening to: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jypfxmi2diskhvl6uxv4rajota&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br><br><br><br><br>
-<samp><img src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-trazo-de-icono-de-sitio-web-de-internet.png" width="23">My web Page: [@edisonlopezec](https://edisonlg-ec.vercel.app/) 💭
+
 
 
