@@ -2,10 +2,11 @@
 <a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></a>
 
 ꧁ Hi, I'm Edison López! ꧂<br><samp>
-  👩🏼‍💻 I’m interested in Software Engineering. <br> 
-  🚲 Based in Ecuador <br>
-  🛸 Playing: valorant, genshin, neon white, league  <br>
-  📽  ¿How to reach me? edisonlopezec@gmail.com <br>
+  👋 Me llamo Edison López y soy un desarrollador de software apasionado por la creación de soluciones tecnológicas que mejoren la vida de las personas. <br> 
+  💻 Mi experiencia en el campo de la ingeniería de software me ha permitido trabajar en proyectos diversos, desde aplicaciones móviles hasta sistemas de gestión empresarial. <br>
+  🌎 Vivo en Ecuador, pero tengo la capacidad de trabajar con personas y equipos de todo el mundo. <br>
+  🔍 Siempre estoy en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente y mejorar mis habilidades como desarrollador. <br>
+  📧 ¿Quieres ponerte en contacto conmigo? Puedes escribirme a mi correo electrónico edisonlopezec@gmail.com. ¡Estaré encantado de conversar contigo! <br>
   🎧 Listening to: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jypfxmi2diskhvl6uxv4rajota&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br><br><br>
