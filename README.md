@@ -1,6 +1,6 @@
 <a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></a> ꧁ hi! ꧂<br><samp>
-  👩🏼‍💻 i work on [backstage.io](https://backstage.io) <br> 
-  🚲 based in amsterdam <br>
+  👩🏼‍💻 I’m interested in Software Engineering and Information Security. <br> 
+  🚲 Based in Ecuador <br>
   🛸 playing: valorant, genshin, neon white, league  <br>
   📽 [@acrokat](https://github.com/acrokat) and i go by `baikat` on [twitch](https://twitch.tv/baikat) <br>
   🎧 listening to: <br></samp>
