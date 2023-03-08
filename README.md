@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c3469&size=30&width=900&lines=%C2%A1Hola!+Mi+nombre+es+Edison.;Estudio+Ingenieria+en+Software+en+la+UTA.;Me+gustan+los+algoritmos.;Me+gustan+los+gatos.)](https://git.io/typing-svg)
 <a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></a> ꧁ Hi, I'm Edison López! ꧂<br><samp>
   👩🏼‍💻 I’m interested in Software Engineering. <br> 
   🚲 Based in Ecuador <br>
