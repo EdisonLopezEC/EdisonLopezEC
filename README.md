@@ -1,4 +1,4 @@
-<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a> ꧁ hi! ꧂<br><samp>
+<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="[http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif](https://tenor.com/es/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429)"></a> ꧁ hi! ꧂<br><samp>
   👩🏼‍💻 i work on [backstage.io](https://backstage.io) <br> 
   🚲 based in amsterdam <br>
   🛸 playing: valorant, genshin, neon white, league  <br>
