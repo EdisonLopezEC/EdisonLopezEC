@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=¡Hola!+Mi+nombre+es+Edison.;Estudio+Ingenieria+de+Software+en+la+UTA.;Me+gustan+los+algoritmos.;Me+gustan+los+gatos.)](https://git.io/typing-svg)
-<a href="https://tenor.com/es/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429" alt="https://tenor.com/es/view/bahroo-hacker-panda-hacking-cool-gif-15741061"><img align="left" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></a>
+<a href="https://tenor.com/es/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429" alt="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"><img align="left" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></a>
 
 ꧁ Hola!! ꧂<br><samp>
   👋 Me llamo Edison López y soy un desarrollador de software apasionado por la creación de soluciones tecnológicas que mejoren la vida de las personas. <br> 
